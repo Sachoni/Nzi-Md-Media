@@ -27,9 +27,9 @@ CURRENTLY RUNNING ON BETA VERSION!!
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
-   * plugin date : 10/6/2023
+   * ┌┤Created By Nzi
+   * © 2024 Nzi-Md ✭ ⛥.
+   * plugin date : 10/6/2024
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
