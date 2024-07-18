@@ -3,27 +3,26 @@
 
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
+//                    ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
 //                                                                                                      // 
-//                                         Ｖ：1．2．2                                                   // 
+//                                Ｖ：1．2．2                                                   // 
 //                                                                                                      // 
-//            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
-//            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
-//            ███████╗██║   ██║███████║███████║██║██║         ██╔████╔██║██║  ██║                       //
-//            ╚════██║██║   ██║██╔══██║██╔══██║██║██║         ██║╚██╔╝██║██║  ██║                       //
-//            ███████║╚██████╔╝██║  ██║██║  ██║██║███████╗    ██║ ╚═╝ ██║██████╔╝                       //
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
-//                                                                                                      //
+//                       █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+                         █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
+                         █░░║║║╠─║─║─║║║║║╠─░░█
+                         █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
+                         █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+                                                                                           //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Nzi-Md
+   * @author : Nzi
+   * @youtube : https://www.youtube.com/c/@Sachoni
+   * @infoription : Nzi-Md ,A unique whatsapp bot.
    * @version 1.2.2 
 *
    * Licensed under the  GPL-3.0 License;
@@ -42,7 +41,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 **/
 
 
-let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is Suhail-Md a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Suhail-Md Chatbot\`\`\`" ;
+let antiCallMessage = process.env.ANTICALL_MESSAGE ||  "\`\`\`Hii this is Nzi-Md a Personal Assistant!!\n\n\tSorry for now, we cannot receive calls, whether in a group or personal \n\n if you need help or request features please chat owner\n\n\nPowered by Nzi-Md Chatbot\`\`\`" ;
 
 
 
