@@ -40,7 +40,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
    * SOFTWARE.
 **/
 
-let Nzi-MD= "Owner";
+let Nzi= "Owner";
 let DELCHAT = process.env.DELCHAT || "pm"; // "chat"
 /*
 cmd({
